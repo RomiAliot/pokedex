@@ -2,6 +2,8 @@
 
 Challenge técnico de React: [PokeAPI](https://pokeapi.co).
 
+**Demo:** https://pokedex-flame-two-85.vercel.app
+
 ## Cómo correrlo
 
 Requisitos: Node 20+ y npm.
